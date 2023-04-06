@@ -1,10 +1,8 @@
-<p align="center">
-  <img width="1050" height="180" src="https://pbs.twimg.com/media/FV3DujgakAEG2hk?format=jpg&name=900x900">
-  </p>
-<h1 align="center">Hi 👋, I'm Kareem Dwidar</h1>
-<h3 align="center">Second year student, interested in data science</h3>
+<img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kareem06dwidar&label=Profile%20views&color=0e75b6&style=flat" alt="kareem06dwidar" /> </p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+;I'm+Kareem+Dwidar;Second+year+student;interested+in+data+science" alt="Typing SVG" /></a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
