@@ -72,7 +72,7 @@ Skilled in Python, data visualization, and backend development with real-world e
 * Adaptive learning platform built for graduation project using Felder-Silverman learning styles
 * Backend in **Python (Flask)** with **PostgreSQL** and **Neo4j** for graph-based concept modeling
 * Generates intelligent learning paths using improved immune algorithm logic
-  🔗 *Private repo — available upon request*
+  🔗 [View Repo](https://github.com/Tarek-Saad/IIA)
 
 ---
 
